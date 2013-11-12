@@ -1,0 +1,5 @@
+lxml==3.2.3
+unittest2==0.5.1
+eventlet==0.14.0
+scrapy==0.18
+MySql-python==1.2.4
